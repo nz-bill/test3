@@ -24,6 +24,8 @@ public class MainActivity extends AppCompatActivity {
     private ActivityMainBinding binding;
     public int i = 45;
 
+    public int x = 34;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
